@@ -1,0 +1,169 @@
+canonical_identifier: bkk:krp/KR6j0358/v1
+canonical_location: https://kanripo.org/bkk/KR6j0358/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 慈氏菩薩略修瑜伽念誦法
+  identifiers:
+    alt_id:
+    - T20n1141
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1141.xml
+    old_id: T20n1141
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 乙
+  label: 乙
+  source_xml_id: wit2
+- short: 丁
+  label: 丁
+  source_xml_id: wit3
+- short: 丙
+  label: 丙
+  source_xml_id: wit4
+- short: 原
+  label: 原
+  source_xml_id: wit5
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0358_000.yaml, hash: 'sha256:9f7285470169d0484be91fbaec31e6a70a4c6fe7f8c7317a3df6b7d93d538584'}
+  - {seq: 1, filename: KR6j0358_001.yaml, hash: 'sha256:14f6af97049403c6f113b417b0abfb66f93798d12a10eebd108c87d8e58fa7ef'}
+  - {seq: 2, filename: KR6j0358_002.yaml, hash: 'sha256:f2d50ff38d97e7408157b87da7cf50eb539d036ab3e5657369b5ceb064a022c7'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0358_001.markers.yaml, hash: 'sha256:f3bfd4f3b1bbad0429caf75935be79442ddfe6da4f67131fbc80468ca98234c3'}
+  - {seq: 2, role: markers, filename: assets/KR6j0358_002.markers.yaml, hash: 'sha256:1a08bebb314636384d2a48bd9fdc5bf214cb2a6f584ae4845c566374ac4b43f0'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0358_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5454
+  label: 慈氏菩薩略修愈誐念誦法卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0358_T_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 1 入法界五大觀門品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0358_T_001-mulu-2
+    span:
+    - body
+    - 2348
+    - 2348
+  label: 2 奉獻本尊香花等品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0358_T_001-mulu-3
+    span:
+    - body
+    - 3584
+    - 3584
+  label: 3 持誦真言品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0358_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 7063
+  label: 慈氏菩薩略修愈誐念誦法卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0358_T_002-mulu-1
+    span:
+    - body
+    - 23
+    - 23
+  label: 4 持誦本尊真言法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0358_T_002-mulu-2
+    span:
+    - body
+    - 651
+    - 651
+  label: 5 畫像品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0358_T_002-mulu-3
+    span:
+    - body
+    - 2217
+    - 2217
+  label: 6 大漫拏囉品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0358_T_002-mulu-4
+    span:
+    - body
+    - 3812
+    - 3812
+  label: 7 觀一生補處諸佛集會灌頂漫拏攞品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0358_T_002-mulu-5
+    span:
+    - body
+    - 4572
+    - 4572
+  label: 8 護摩品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0358_T_002-mulu-6
+    span:
+    - body
+    - 5113
+    - 5113
+  label: 9 分別悉地法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0358_T_002-mulu-7
+    span:
+    - body
+    - 6120
+    - 6120
+  label: 10 大三昧耶像悉地品
+  type: mulu
+  level: 1
+hash: sha256:c626537d98a7436b1e25375cb5c632b838aacc373d22a8d00f3f35cad71d7f17
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

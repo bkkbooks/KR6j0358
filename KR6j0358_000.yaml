@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0358/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 慈氏菩薩略修瑜伽念誦法
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1141.xml
+    old_id: T20n1141
+hash: sha256:9f7285470169d0484be91fbaec31e6a70a4c6fe7f8c7317a3df6b7d93d538584
