@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0358/v1
 canonical_location: https://kanripo.org/bkk/KR6j0358/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 慈氏菩薩略修瑜伽念誦法
   identifiers:
@@ -37,12 +37,12 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0358_000.yaml, hash: 'sha256:9f7285470169d0484be91fbaec31e6a70a4c6fe7f8c7317a3df6b7d93d538584'}
-  - {seq: 1, filename: KR6j0358_001.yaml, hash: 'sha256:04798d249a61240edfbd3a198e360ad86006b34ad84da5d7b896c2071f4e6e8c'}
-  - {seq: 2, filename: KR6j0358_002.yaml, hash: 'sha256:66f01a3482cf88fbbcf8c2a8fa30b465957b69bfda4c8211e6825ab434b259e7'}
+  - {seq: 1, filename: KR6j0358_001.yaml, hash: 'sha256:8abf1d875a35e3f014ffce7fc7342ba029b2eb7953a81a4295b824d2e3775e84'}
+  - {seq: 2, filename: KR6j0358_002.yaml, hash: 'sha256:84f7db0cbe2dee15a8911b2104f2794354521dbe5008e3703fe32a96e9c0f21b'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0358_000.markers.yaml, hash: 'sha256:29be2648c7fed5d44bcb47bac0a6e4b9517d1bf3b3861764532cbe8cb3759c9b'}
-  - {seq: 1, role: markers, filename: assets/KR6j0358_001.markers.yaml, hash: 'sha256:f157b6866a5536d8872497e970eb3d4d0308622a6aeb73884a25ec6be8cdb771'}
-  - {seq: 2, role: markers, filename: assets/KR6j0358_002.markers.yaml, hash: 'sha256:7d458a85d3ffb7d1e3bf5ed93c1050ced9e998f1454eeee4e9642c966e87eb39'}
+  - {seq: 1, role: markers, filename: assets/KR6j0358_001.markers.yaml, hash: 'sha256:d15fa4ff9174ada94fd0b9924c2f740eb89a02780b493c1903c771779b076c73'}
+  - {seq: 2, role: markers, filename: assets/KR6j0358_002.markers.yaml, hash: 'sha256:40008f34997da59f8412c7eb3f7431183d175cd26ccd24602ed2c46bc36ce91b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -164,4 +164,7 @@ table_of_contents:
   label: 10 大三昧耶像悉地品
   type: mulu
   level: 1
-hash: sha256:fe83c15808af3faeca85a63262169b88b13ed62c7f408acdfd7d5f90e5a3401a
+hash: sha256:b9e5652cf6dafa7558a7d0e6f6a6ff5c275aa0f9a34a660dad39a028dd5cdf38
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
